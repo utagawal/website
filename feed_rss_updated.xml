@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Geotribu</title>
+    <description>Site indépendant de veille sur la géomatique libre et open source. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique, les SIG, la cartographie, la représentation des données...</description>
+    <link>https://static.geotribu.fr/</link>
+    <atom:link href="https://static.geotribu.fr/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Geotribu</managingEditor>
+    <docs>https://github.com/geotribu/website</docs>
+    <language>en</language>
+
+    
+    <pubDate>Mon, 10 Oct 2022 08:38:44 -0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 08:38:44 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.4.1</generator>
+
+    
+    
+    <image>
+      <url>https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_64x64.png</url>
+      <title>Geotribu</title>
+      <link>https://static.geotribu.fr/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Revue de presse du 7 octobre 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeOnG</category>
+        
+      <category>Géotuileur</category>
+        
+      <category>IGN</category>
+        
+      <category>Maputnik</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Planetiler</category>
+        
+      <category>QGIS</category>
+        
+      <category>SAGEO</category>
+        
+      <category>VTT</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Dans le pipeline de l&#39;actualité : le Géotuileur IGN, de la 3D, un fond OSM VTT, un atlas de l&#39;anthropocène, le 30DayMapChallenge qui approche, le SAGEO qui s&#39;annonce, un Podcast géomatique, un livre PostGIS</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-10-07/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Mon, 10 Oct 2022 08:30:03 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-10-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-10-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/sketchy_la_rochelle_steve_attewell.png" type="image/png" length="291695" />
+      
+    </item>
+    
+    <item>
+      <title>Faire une carte façon Ed Fairburn avec QGIS</title>
+      
+      
+        
+      <author>Michaël GALIEN</author>
+        
+      
+      
+      
+        
+      <category>QGIS</category>
+        
+      <category>article</category>
+        
+      <category>carte</category>
+        
+      <category>composeur d'impression</category>
+        
+      <category>mode de fusion</category>
+        
+      <category>rendu</category>
+        
+      
+      <description>Utiliser les modes de fusion pour produire avec QGIS une carte inspirée des dessins d&#39;Ed Fairburn.</description>
+      <link>https://static.geotribu.fr/articles/2022/2022-09-30_carte_facon_ed_fairburn/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Fri, 30 Sep 2022 10:52:59 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2022/2022-09-30_carte_facon_ed_fairburn/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2022/2022-09-30_carte_facon_ed_fairburn/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/carte_facon_ed_fairburn/carte_facon_ed_fairburn.png" type="image/png" length="304908" />
+      
+    </item>
+    
+    <item>
+      <title>Quelques outils pour développer plus facilement en JavaScript</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>JavaScript</category>
+        
+      <category>article</category>
+        
+      
+      <description>Quelques outils pour développer plus facilement en JavaScript</description>
+      <link>https://static.geotribu.fr/articles/2009/2009-07-15_quelques-outils-pour-developper-plus-facilement-en-javascript/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 21:19:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2009/2009-07-15_quelques-outils-pour-developper-plus-facilement-en-javascript/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/2009-07-15_quelques-outils-pour-developper-plus-facilement-en-javascript/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Ajouter des SHP dans GeoServer</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      
+      
+        
+      <category>GeoServer</category>
+        
+      <category>article</category>
+        
+      <category>shapefiles</category>
+        
+      
+      <description>Ajouter des SHP dans GeoServer</description>
+      <link>https://static.geotribu.fr/articles/2008/2008-08-22_ajouter-des-shp-dans-geoserver/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 20:34:04 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2008/2008-08-22_ajouter-des-shp-dans-geoserver/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/2008-08-22_ajouter-des-shp-dans-geoserver/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Non, MapServer, GeoServer, TileCache &amp; co ne sont pas toujours nécessaires</title>
+      
+      
+        
+      <author>Arnaud VANDECASTEELE</author>
+        
+      
+      
+      
+        
+      <category>article</category>
+        
+      <category>webmapping</category>
+        
+      
+      <description>Non, MapServer, GeoServer, TileCache &amp; co ne sont pas toujours nécessaires</description>
+      <link>https://static.geotribu.fr/articles/2014/2014-03-24_non_mapserver_geoserver_tilecache_ne_sont_pas_toujours_necessaires/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 20:31:30 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2014/2014-03-24_non_mapserver_geoserver_tilecache_ne_sont_pas_toujours_necessaires/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/2014-03-24_non_mapserver_geoserver_tilecache_ne_sont_pas_toujours_necessaires/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Conférence du Professeur Yvan BEDARD de l’Université Laval à Québec</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>PictograF</category>
+        
+      <category>SOLAP</category>
+        
+      <category>article</category>
+        
+      <category>conférence</category>
+        
+      
+      <description>Conférence du Professeur Yvan BEDARD de l’Université Laval à Québec</description>
+      <link>https://static.geotribu.fr/articles/2012/2012-10-11_conference_yvan_bedard_universite_laval/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 18:21:41 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2012/2012-10-11_conference_yvan_bedard_universite_laval/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/2012-10-11_conference_yvan_bedard_universite_laval/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Interroger GeoServer en Python grâce à gsconfig</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoServer</category>
+        
+      <category>Python</category>
+        
+      <category>article</category>
+        
+      <category>open source</category>
+        
+      <category>serveur cartographique</category>
+        
+      
+      <description>Interroger GeoServer en Python grâce à gsconfig</description>
+      <link>https://static.geotribu.fr/articles/2010/2010-08-25_interroger_geoserver_en_python_grace_a_gsconfig/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 17:39:05 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2010/2010-08-25_interroger_geoserver_en_python_grace_a_gsconfig/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/2010-08-25_interroger_geoserver_en_python_grace_a_gsconfig/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Imagimap Baselayers v2</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Bing Maps</category>
+        
+      <category>ExtJS</category>
+        
+      <category>GeoExt</category>
+        
+      <category>Geotribu</category>
+        
+      <category>Google Maps</category>
+        
+      <category>MapQuest</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Yahoo! Maps</category>
+        
+      <category>article</category>
+        
+      
+      <description>Imagimap Baselayers v2</description>
+      <link>https://static.geotribu.fr/articles/2010/2010-12-13_imagimap_baselayers_v2/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Wed, 28 Sep 2022 17:39:05 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/articles/2010/2010-12-13_imagimap_baselayers_v2/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/2010-12-13_imagimap_baselayers_v2/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 23 septembre 2022</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GraphHopper</category>
+        
+      <category>GéoDataDays</category>
+        
+      <category>Leaflet</category>
+        
+      <category>MapServer</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>analyse spatiale</category>
+        
+      <category>cartographie</category>
+        
+      <category>hackathon</category>
+        
+      <category>mviewer</category>
+        
+      <category>podcast</category>
+        
+      <category>revue de presse</category>
+        
+      <category>tuiles vectorielles</category>
+        
+      
+      <description>GeoRDP du 23 septembre : les GéoDataDays 2022 ont été couronnés de succès, certaines des briques logicielles les plus connues sont mises à jour, des initiatives viennent redonner vie à des illustres cartographes et la géomatique continue de nous donner à voir sa diversité et son intérêt.</description>
+      <link>https://static.geotribu.fr/rdp/2022/rdp_2022-09-23/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Mon, 26 Sep 2022 12:09:46 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2022/rdp_2022-09-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2022/rdp_2022-09-23/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/evenement/2022_11_ChallengeData.jpg" type="image/jpeg" length="268040" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 14 janvier 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google Maps</category>
+        
+      <category>Inspire</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      <category>thèse</category>
+        
+      
+      <description>Revue de presse du 14 janvier 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-14/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-01-14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 janvier 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenGeo Suite</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>WebGL</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 21 janvier 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 28 janvier 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GDAL</category>
+        
+      <category>MapQuest</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>QGIS</category>
+        
+      <category>WebGL</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 28 janvier 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-28/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 février 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Bing Maps</category>
+        
+      <category>FOSS4G</category>
+        
+      <category>OpenGeo Suite</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>WebGL</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 4 février 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 11 février 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>OrbisGIS</category>
+        
+      <category>SpatiaLite</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 11 février 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-11/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 mars 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google Maps</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 18 mars 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 mars 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>JavaScript</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>open source</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 25 mars 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 1 avril 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoServer</category>
+        
+      <category>MapServer</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>TinyOWS</category>
+        
+      <category>carte de chaleur</category>
+        
+      <category>revue de presse</category>
+        
+      <category>smartphone</category>
+        
+      
+      <description>Revue de presse du 1 avril 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 8 avril 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 8 avril 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-08/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 avril 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google Maps</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 15 avril 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-15/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 22 avril 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google</category>
+        
+      <category>MapQuery</category>
+        
+      <category>OpenGeo Suite</category>
+        
+      <category>OpenLite</category>
+        
+      <category>QGIS</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 22 avril 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 avril 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>FOSS4G</category>
+        
+      <category>Google</category>
+        
+      <category>blog</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 29 avril 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-04-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 6 mai 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>INSPIRE</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 6 mai 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-06/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 13 mai 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoServer</category>
+        
+      <category>MapServer</category>
+        
+      <category>OSGeo</category>
+        
+      <category>Shapely</category>
+        
+      <category>blog</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 13 mai 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-13/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 mai 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google</category>
+        
+      <category>JTS</category>
+        
+      <category>Leaflet</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 21 mai 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-21/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 27 mai 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoAPI</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 27 mai 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-05-27/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 3 juin 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>INSPIRE</category>
+        
+      <category>MapServer</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 3 juin 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juin 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoServer</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 10 juin 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-10/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juin 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Galileo</category>
+        
+      <category>GeoServer</category>
+        
+      <category>Leaflet</category>
+        
+      <category>MapFish</category>
+        
+      <category>OSGeo</category>
+        
+      <category>QGIS</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 24 juin 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 1er juillet 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Mapnik</category>
+        
+      <category>OGC</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 1er juillet 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-01/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 8 juillet 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>GeoExt</category>
+        
+      <category>PostGIS</category>
+        
+      <category>conférence</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 8 juillet 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-08/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 juillet 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Talend</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 15 juillet 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-15/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 août 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>MapServer</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Python</category>
+        
+      <category>birthday</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 26 août 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 2 septembre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 2 septembre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-02/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:49:33 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-09-02/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-02/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 janvier 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>CNRS</category>
+        
+      <category>Google Maps</category>
+        
+      <category>revue de presse</category>
+        
+      <category>télévision</category>
+        
+      
+      <description>Revue de presse du 7 janvier 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-01-07/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:15:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-01-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-01-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 février 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Esri</category>
+        
+      <category>GDAL</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Python</category>
+        
+      <category>art</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 18 février 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:15:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-18/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 25 février 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>PhilGL</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 25 février 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:15:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-02-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 mars 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Twitter</category>
+        
+      <category>Voronoï</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 4 mars 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:15:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-03-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 17 juin 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>FOSS4G</category>
+        
+      <category>Kothic</category>
+        
+      <category>OGC</category>
+        
+      <category>OpenAerialMap</category>
+        
+      <category>presse</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 17 juin 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 20:15:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-06-17/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 22 juillet 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>ETL</category>
+        
+      <category>Leaflet</category>
+        
+      <category>MapServer</category>
+        
+      <category>SpatiaLite</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 22 juillet 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-22/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 juillet 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>3D</category>
+        
+      <category>GeoBI</category>
+        
+      <category>Google</category>
+        
+      <category>MapQuery</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>Proj4js</category>
+        
+      <category>changement climatique</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 29 juillet 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-07-29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 5 août 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>BD Carthage</category>
+        
+      <category>MapCraft</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>SimpleGeo</category>
+        
+      <category>WMS</category>
+        
+      <category>bière</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 5 août 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-05/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 août 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Histoire</category>
+        
+      <category>MapInfo</category>
+        
+      <category>QGIS</category>
+        
+      <category>WPS</category>
+        
+      <category>ZOO</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 12 août 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-12/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 19 août 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>API</category>
+        
+      <category>GeoServer</category>
+        
+      <category>JavaScript</category>
+        
+      <category>QGIS</category>
+        
+      <category>open source</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 19 août 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-19/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 9 septembre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>API</category>
+        
+      <category>OSGeo</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 9 septembre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-09/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-09-09/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-09/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 16 septembre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>FOSS4G</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 16 septembre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 23 septembre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>PostGIS</category>
+        
+      <category>QGIS</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 23 septembre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-23/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-09-23/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-23/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 septembre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Mapnik</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>Philcarto</category>
+        
+      <category>QGIS</category>
+        
+      <category>open data</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 30 septembre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-30/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 octobre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google Maps</category>
+        
+      <category>OGC</category>
+        
+      <category>OpenLayers</category>
+        
+      <category>Python</category>
+        
+      <category>livre</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 7 octobre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-07/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-10-07/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-10-07/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 14 octobre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google Maps</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 14 octobre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-10-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 octobre 2011</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      
+      
+        
+      <category>Google</category>
+        
+      <category>OpenStreetMap</category>
+        
+      <category>QGIS</category>
+        
+      <category>revue de presse</category>
+        
+      
+      <description>Revue de presse du 21 octobre 2011</description>
+      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-10-21/?utm_campaign=feed-syndication&amp;utm_medium=RSS&amp;utm_source=rss-feed</link>
+      <pubDate>Sun, 25 Sep 2022 19:59:24 +0200</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <comments>https://static.geotribu.fr/rdp/2011/rdp_2011-10-21/#__comments</comments>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-10-21/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

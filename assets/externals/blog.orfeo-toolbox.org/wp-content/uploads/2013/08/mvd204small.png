@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.orfeo-toolbox.org/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="https://www.orfeo-toolbox.org/wp-content/themes/alexandria/js/html5shiv.js"></script>
+<![endif]-->
+<title>Page not found &#8211; Orfeo ToolBox</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Orfeo ToolBox &raquo; Feed" href="https://www.orfeo-toolbox.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Orfeo ToolBox &raquo; Comments Feed" href="https://www.orfeo-toolbox.org/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.orfeo-toolbox.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.orfeo-toolbox.org/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.orfeo-toolbox.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.orfeo-toolbox.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='alexandria-style-css'  href='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/style.css?ver=6.0.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='alexandria_ie9-css'  href='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/fixed.css?ver=6.0.2' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='alexandria_ie8-css'  href='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/ie.css?ver=6.0.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://www.orfeo-toolbox.org/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='https://www.orfeo-toolbox.org/wp-content/plugins/youtube-channel-gallery/styles.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='https://www.orfeo-toolbox.org/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=6.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.orfeo-toolbox.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.1.2' id='cookie-law-info-js'></script>
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/js/tinynav.min.js?ver=6.0.2' id='alexandria-tinynav-js'></script>
+<link rel="https://api.w.org/" href="https://www.orfeo-toolbox.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.orfeo-toolbox.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.orfeo-toolbox.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.orfeo-toolbox.org/wp-content/themes/alexandria/skins/images/alexandria/page_bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<meta name="twitter:partner" content="tfwp" /><link rel="icon" href="https://www.orfeo-toolbox.org/wp-content/uploads/2014/10/cropped-logoOTB-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.orfeo-toolbox.org/wp-content/uploads/2014/10/cropped-logoOTB-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.orfeo-toolbox.org/wp-content/uploads/2014/10/cropped-logoOTB-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.orfeo-toolbox.org/wp-content/uploads/2014/10/cropped-logoOTB-270x270.png" />
+
+
+</head>
+
+<body class="error404 custom-background group-blog">
+<div id="wrapper-one">
+<div id="wrapper-two">
+<div id="wrapper-three">
+<div id="page" class="hfeed site">
+	    <div class="header-social">
+        
+       <div class="responsive-container">
+            
+            
+       </div>
+        
+    </div> 
+       
+	<header id="masthead" class="site-header" role="banner">
+    
+    	<div class="responsive-container">
+        
+                
+        	<div class="site-header-half-width-logo">
+    
+                <div class="site-branding">
+                                            <h1 class="site-title"><a href="https://www.orfeo-toolbox.org/" title="Orfeo ToolBox" rel="home">Orfeo ToolBox</a></h1>
+                        <h2 class="site-description">Orfeo ToolBox is not a black box</h2>
+                                        
+                </div>
+                
+            </div>
+            
+            <div class="site-header-half-width-nav">
+    
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+        
+                    <div class="menu-menu-haut-container"><ul id="main-nav" class="menu"><li id="menu-item-3684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3684"><a href="https://forum.orfeo-toolbox.org/">Forum</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.orfeo-toolbox.org/download/">Download</a></li>
+<li id="menu-item-3825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3825"><a href="/CookBook/">Documentation</a></li>
+<li id="menu-item-3686" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3686"><a href="https://www.orfeo-toolbox.org/blog/">Blog</a></li>
+<li id="menu-item-2170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2170"><a href="https://www.orfeo-toolbox.org/community/">Community</a></li>
+</ul></div>                </nav><!-- #site-navigation -->
+                
+            </div>                
+            
+                    
+    	</div><!-- #Responsive-Container -->            
+            
+	</header><!-- #masthead -->
+    
+	
+	<div id="main" class="site-main">
+    
+    	<div class="responsive-container">    
+        
+    		<div class="content-container">         
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form role="search" method="get" class="search-form" action="https://www.orfeo-toolbox.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.orfeo-toolbox.org/otb-release-8-0-1/">OTB release 8.0.1</a>
+									</li>
+											<li>
+					<a href="https://www.orfeo-toolbox.org/otb-release-8-0-0/">OTB release 8.0.0</a>
+									</li>
+											<li>
+					<a href="https://www.orfeo-toolbox.org/otb-user-days-2021-plenary-talks-workshops-and-more/">OTB User Days 2021 : Plenary talks, workshops, and more</a>
+									</li>
+											<li>
+					<a href="https://www.orfeo-toolbox.org/otb-user-days-2021/">OTB User days 2021</a>
+									</li>
+											<li>
+					<a href="https://www.orfeo-toolbox.org/otb-release-7-4-0/">OTB release 7.4.0</a>
+									</li>
+					</ul>
+
+		</div>
+										<div class="widget widget_categories">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-3"><a href="https://www.orfeo-toolbox.org/category/news/">News</a> (71)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.orfeo-toolbox.org/category/uncategorized/">Uncategorized</a> (59)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.orfeo-toolbox.org/category/preview/">Preview</a> (14)
+</li>
+	<li class="cat-item cat-item-54"><a href="https://www.orfeo-toolbox.org/category/release/">Release</a> (13)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.orfeo-toolbox.org/category/tips/">Tips</a> (7)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.orfeo-toolbox.org/category/howto/">Howto</a> (5)
+</li>
+	<li class="cat-item cat-item-62"><a href="https://www.orfeo-toolbox.org/category/meeting/">meeting</a> (4)
+</li>
+	<li class="cat-item cat-item-59"><a href="https://www.orfeo-toolbox.org/category/success-story/">Success story</a> (3)
+</li>
+						</ul>
+					</div><!-- .widget -->
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://www.orfeo-toolbox.org/2022/04/'> April 2022 </option>
+	<option value='https://www.orfeo-toolbox.org/2022/03/'> March 2022 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/12/'> December 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/11/'> November 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/09/'> September 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/05/'> May 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/04/'> April 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2021/02/'> February 2021 </option>
+	<option value='https://www.orfeo-toolbox.org/2020/11/'> November 2020 </option>
+	<option value='https://www.orfeo-toolbox.org/2020/10/'> October 2020 </option>
+	<option value='https://www.orfeo-toolbox.org/2020/09/'> September 2020 </option>
+	<option value='https://www.orfeo-toolbox.org/2020/08/'> August 2020 </option>
+	<option value='https://www.orfeo-toolbox.org/2020/04/'> April 2020 </option>
+	<option value='https://www.orfeo-toolbox.org/2019/11/'> November 2019 </option>
+	<option value='https://www.orfeo-toolbox.org/2019/09/'> September 2019 </option>
+	<option value='https://www.orfeo-toolbox.org/2019/06/'> June 2019 </option>
+	<option value='https://www.orfeo-toolbox.org/2019/04/'> April 2019 </option>
+	<option value='https://www.orfeo-toolbox.org/2019/02/'> February 2019 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/10/'> October 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/08/'> August 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/07/'> July 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/06/'> June 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/05/'> May 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/04/'> April 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/02/'> February 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2018/01/'> January 2018 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/12/'> December 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/10/'> October 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/06/'> June 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/05/'> May 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/04/'> April 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/03/'> March 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2017/02/'> February 2017 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/11/'> November 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/09/'> September 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/07/'> July 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/06/'> June 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/05/'> May 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/04/'> April 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/02/'> February 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2016/01/'> January 2016 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/12/'> December 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/11/'> November 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/07/'> July 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/06/'> June 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/05/'> May 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/03/'> March 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/02/'> February 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2015/01/'> January 2015 </option>
+	<option value='https://www.orfeo-toolbox.org/2014/12/'> December 2014 </option>
+	<option value='https://www.orfeo-toolbox.org/2014/09/'> September 2014 </option>
+	<option value='https://www.orfeo-toolbox.org/2014/02/'> February 2014 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/11/'> November 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/10/'> October 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/09/'> September 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/08/'> August 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/07/'> July 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/06/'> June 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/02/'> February 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2013/01/'> January 2013 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/12/'> December 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/11/'> November 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/10/'> October 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/09/'> September 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/07/'> July 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/06/'> June 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/04/'> April 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/03/'> March 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/02/'> February 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2012/01/'> January 2012 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/12/'> December 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/11/'> November 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/09/'> September 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/08/'> August 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/07/'> July 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/06/'> June 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2011/04/'> April 2011 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/12/'> December 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/10/'> October 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/08/'> August 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/07/'> July 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/05/'> May 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/04/'> April 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/03/'> March 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/02/'> February 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2010/01/'> January 2010 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/12/'> December 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/11/'> November 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/10/'> October 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/07/'> July 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/05/'> May 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/04/'> April 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/03/'> March 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/02/'> February 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2009/01/'> January 2009 </option>
+	<option value='https://www.orfeo-toolbox.org/2008/12/'> December 2008 </option>
+	<option value='https://www.orfeo-toolbox.org/2008/11/'> November 2008 </option>
+	<option value='https://www.orfeo-toolbox.org/2008/10/'> October 2008 </option>
+	<option value='https://www.orfeo-toolbox.org/2008/09/'> September 2008 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://www.orfeo-toolbox.org/tag/applications/" class="tag-cloud-link tag-link-8 tag-link-position-1" style="font-size: 14.637931034483pt;" aria-label="applications (6 items)">applications</a>
+<a href="https://www.orfeo-toolbox.org/tag/architecture/" class="tag-cloud-link tag-link-56 tag-link-position-2" style="font-size: 8pt;" aria-label="architecture (1 item)">architecture</a>
+<a href="https://www.orfeo-toolbox.org/tag/bugfix/" class="tag-cloud-link tag-link-50 tag-link-position-3" style="font-size: 10.172413793103pt;" aria-label="bugfix (2 items)">bugfix</a>
+<a href="https://www.orfeo-toolbox.org/tag/classification/" class="tag-cloud-link tag-link-46 tag-link-position-4" style="font-size: 10.172413793103pt;" aria-label="classification (2 items)">classification</a>
+<a href="https://www.orfeo-toolbox.org/tag/cmake/" class="tag-cloud-link tag-link-55 tag-link-position-5" style="font-size: 10.172413793103pt;" aria-label="cmake (2 items)">cmake</a>
+<a href="https://www.orfeo-toolbox.org/tag/compilation-error/" class="tag-cloud-link tag-link-13 tag-link-position-6" style="font-size: 8pt;" aria-label="compilation error (1 item)">compilation error</a>
+<a href="https://www.orfeo-toolbox.org/tag/contribute/" class="tag-cloud-link tag-link-30 tag-link-position-7" style="font-size: 14.637931034483pt;" aria-label="contribute (6 items)">contribute</a>
+<a href="https://www.orfeo-toolbox.org/tag/cookbook/" class="tag-cloud-link tag-link-41 tag-link-position-8" style="font-size: 11.620689655172pt;" aria-label="cookbook (3 items)">cookbook</a>
+<a href="https://www.orfeo-toolbox.org/tag/deep-learning/" class="tag-cloud-link tag-link-67 tag-link-position-9" style="font-size: 8pt;" aria-label="deep learning (1 item)">deep learning</a>
+<a href="https://www.orfeo-toolbox.org/tag/dem/" class="tag-cloud-link tag-link-52 tag-link-position-10" style="font-size: 8pt;" aria-label="dem (1 item)">dem</a>
+<a href="https://www.orfeo-toolbox.org/tag/developer/" class="tag-cloud-link tag-link-65 tag-link-position-11" style="font-size: 8pt;" aria-label="developer (1 item)">developer</a>
+<a href="https://www.orfeo-toolbox.org/tag/documentation/" class="tag-cloud-link tag-link-61 tag-link-position-12" style="font-size: 8pt;" aria-label="documentation (1 item)">documentation</a>
+<a href="https://www.orfeo-toolbox.org/tag/education/" class="tag-cloud-link tag-link-44 tag-link-position-13" style="font-size: 10.172413793103pt;" aria-label="education (2 items)">education</a>
+<a href="https://www.orfeo-toolbox.org/tag/git/" class="tag-cloud-link tag-link-64 tag-link-position-14" style="font-size: 8pt;" aria-label="git (1 item)">git</a>
+<a href="https://www.orfeo-toolbox.org/tag/gitlab/" class="tag-cloud-link tag-link-63 tag-link-position-15" style="font-size: 10.172413793103pt;" aria-label="gitlab (2 items)">gitlab</a>
+<a href="https://www.orfeo-toolbox.org/tag/google-earth/" class="tag-cloud-link tag-link-16 tag-link-position-16" style="font-size: 8pt;" aria-label="google earth (1 item)">google earth</a>
+<a href="https://www.orfeo-toolbox.org/tag/igarss/" class="tag-cloud-link tag-link-22 tag-link-position-17" style="font-size: 8pt;" aria-label="igarss (1 item)">igarss</a>
+<a href="https://www.orfeo-toolbox.org/tag/irc/" class="tag-cloud-link tag-link-24 tag-link-position-18" style="font-size: 8pt;" aria-label="irc (1 item)">irc</a>
+<a href="https://www.orfeo-toolbox.org/tag/jpeg2000/" class="tag-cloud-link tag-link-51 tag-link-position-19" style="font-size: 8pt;" aria-label="jpeg2000 (1 item)">jpeg2000</a>
+<a href="https://www.orfeo-toolbox.org/tag/kml/" class="tag-cloud-link tag-link-17 tag-link-position-20" style="font-size: 10.172413793103pt;" aria-label="kml (2 items)">kml</a>
+<a href="https://www.orfeo-toolbox.org/tag/libraries/" class="tag-cloud-link tag-link-27 tag-link-position-21" style="font-size: 12.827586206897pt;" aria-label="libraries (4 items)">libraries</a>
+<a href="https://www.orfeo-toolbox.org/tag/live-dvd/" class="tag-cloud-link tag-link-35 tag-link-position-22" style="font-size: 8pt;" aria-label="Live DVD (1 item)">Live DVD</a>
+<a href="https://www.orfeo-toolbox.org/tag/machine-learning/" class="tag-cloud-link tag-link-47 tag-link-position-23" style="font-size: 13.793103448276pt;" aria-label="machine learning (5 items)">machine learning</a>
+<a href="https://www.orfeo-toolbox.org/tag/mailing-list/" class="tag-cloud-link tag-link-33 tag-link-position-24" style="font-size: 8pt;" aria-label="mailing list (1 item)">mailing list</a>
+<a href="https://www.orfeo-toolbox.org/tag/monteverdi/" class="tag-cloud-link tag-link-26 tag-link-position-25" style="font-size: 19.586206896552pt;" aria-label="Monteverdi (17 items)">Monteverdi</a>
+<a href="https://www.orfeo-toolbox.org/tag/online-store/" class="tag-cloud-link tag-link-15 tag-link-position-26" style="font-size: 8pt;" aria-label="online store (1 item)">online store</a>
+<a href="https://www.orfeo-toolbox.org/tag/opencv/" class="tag-cloud-link tag-link-48 tag-link-position-27" style="font-size: 8pt;" aria-label="opencv (1 item)">opencv</a>
+<a href="https://www.orfeo-toolbox.org/tag/orfeo/" class="tag-cloud-link tag-link-38 tag-link-position-28" style="font-size: 14.637931034483pt;" aria-label="orfeo (6 items)">orfeo</a>
+<a href="https://www.orfeo-toolbox.org/tag/otb/" class="tag-cloud-link tag-link-10 tag-link-position-29" style="font-size: 22pt;" aria-label="OTB (28 items)">OTB</a>
+<a href="https://www.orfeo-toolbox.org/tag/otb-users-day/" class="tag-cloud-link tag-link-57 tag-link-position-30" style="font-size: 8pt;" aria-label="otb users day (1 item)">otb users day</a>
+<a href="https://www.orfeo-toolbox.org/tag/programming/" class="tag-cloud-link tag-link-28 tag-link-position-31" style="font-size: 11.620689655172pt;" aria-label="programming (3 items)">programming</a>
+<a href="https://www.orfeo-toolbox.org/tag/release/" class="tag-cloud-link tag-link-29 tag-link-position-32" style="font-size: 19.224137931034pt;" aria-label="release (16 items)">release</a>
+<a href="https://www.orfeo-toolbox.org/tag/release-candidate/" class="tag-cloud-link tag-link-39 tag-link-position-33" style="font-size: 11.620689655172pt;" aria-label="release candidate (3 items)">release candidate</a>
+<a href="https://www.orfeo-toolbox.org/tag/road-extraction/" class="tag-cloud-link tag-link-18 tag-link-position-34" style="font-size: 8pt;" aria-label="road extraction (1 item)">road extraction</a>
+<a href="https://www.orfeo-toolbox.org/tag/sandbox/" class="tag-cloud-link tag-link-31 tag-link-position-35" style="font-size: 8pt;" aria-label="sandbox (1 item)">sandbox</a>
+<a href="https://www.orfeo-toolbox.org/tag/sar/" class="tag-cloud-link tag-link-69 tag-link-position-36" style="font-size: 8pt;" aria-label="SAR (1 item)">SAR</a>
+<a href="https://www.orfeo-toolbox.org/tag/segmentation/" class="tag-cloud-link tag-link-53 tag-link-position-37" style="font-size: 8pt;" aria-label="segmentation (1 item)">segmentation</a>
+<a href="https://www.orfeo-toolbox.org/tag/sentinel/" class="tag-cloud-link tag-link-60 tag-link-position-38" style="font-size: 8pt;" aria-label="sentinel (1 item)">sentinel</a>
+<a href="https://www.orfeo-toolbox.org/tag/shapefile/" class="tag-cloud-link tag-link-19 tag-link-position-39" style="font-size: 10.172413793103pt;" aria-label="shapefile (2 items)">shapefile</a>
+<a href="https://www.orfeo-toolbox.org/tag/slideshows/" class="tag-cloud-link tag-link-23 tag-link-position-40" style="font-size: 8pt;" aria-label="slideshows (1 item)">slideshows</a>
+<a href="https://www.orfeo-toolbox.org/tag/stereo/" class="tag-cloud-link tag-link-49 tag-link-position-41" style="font-size: 10.172413793103pt;" aria-label="stereo (2 items)">stereo</a>
+<a href="https://www.orfeo-toolbox.org/tag/tensorflow/" class="tag-cloud-link tag-link-66 tag-link-position-42" style="font-size: 8pt;" aria-label="tensorflow (1 item)">tensorflow</a>
+<a href="https://www.orfeo-toolbox.org/tag/tile-map/" class="tag-cloud-link tag-link-34 tag-link-position-43" style="font-size: 8pt;" aria-label="tile map (1 item)">tile map</a>
+<a href="https://www.orfeo-toolbox.org/tag/twitter/" class="tag-cloud-link tag-link-25 tag-link-position-44" style="font-size: 8pt;" aria-label="twitter (1 item)">twitter</a>
+<a href="https://www.orfeo-toolbox.org/tag/wiki/" class="tag-cloud-link tag-link-14 tag-link-position-45" style="font-size: 8pt;" aria-label="wiki (1 item)">wiki</a></div>
+</div>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+    		</div><!-- .content-container -->
+        
+    	</div><!-- .Responsive-Container -->
+        
+	</div><!-- #main -->
+    
+    <div class="footer-social">
+    
+    	<div class="responsive-container">
+        
+                                    <ul class="footer-social-icons">
+                                    
+                                                                                
+                                                                                                                  
+    
+                                            
+                                            
+                                            
+                                            
+                                        
+                                                                        
+                                    </ul>         
+        
+        </div><!-- .Responsive-Container -->
+    
+    </div><!-- .footer-social-icons -->
+
+	<!-- Footer Starts Here -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+    
+    	<div class="responsive-container">
+            	
+            <div class="site-info">
+            
+            
+                                <h3><a href="https://www.orfeo-toolbox.org/">Orfeo ToolBox</a></h3>
+                <p>&copy; All rights reserved.</p>
+                                <p>Powered by <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a></p>
+                <div class="footer-search"><form role="search" method="get" class="search-form" action="https://www.orfeo-toolbox.org/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+</div>
+
+                
+            </div><!-- .site-info -->
+            
+            <div class="footer-widget-three">
+            	<aside id="simple-social-icons-6" class="widget simple-social-icons"><ul class="alignleft"><li class="ssi-email"><a href="https://forum.orfeo-toolbox.org/" ><svg role="img" class="social-email" aria-labelledby="social-email-6"><title id="social-email-6">Email</title><use xlink:href="https://www.orfeo-toolbox.org/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-github"><a href="https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb" ><svg role="img" class="social-github" aria-labelledby="social-github-6"><title id="social-github-6">GitHub</title><use xlink:href="https://www.orfeo-toolbox.org/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-github"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/orfeotoolbox" ><svg role="img" class="social-twitter" aria-labelledby="social-twitter-6"><title id="social-twitter-6">Twitter</title><use xlink:href="https://www.orfeo-toolbox.org/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><h3><a href="https://www.orfeo-toolbox.org/">Orfeo ToolBox</a></h3>
+                <p>Copyright © 2002-2019 CNES.</p><p> CC By 4.0 Except where otherwise noted,
+				the OTB web pages are released under Creative Commons Attribution 4.0 License</p>	
+				<p><a href="?page_id=2052">website resources</a></p></div>
+		</aside>            </div>
+            
+            <div class="footer-widget-three">
+            	<aside id="text-7" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>            
+            </div>
+            
+            <div class="footer-widget-three">
+            	<aside id="text-5" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>            
+            </div>            
+            
+    	</div><!-- #Responsive-Container -->
+                    
+	</footer><!-- #colophon -->    <!-- Footer ends Here -->
+    
+</div><!-- #page -->
+</div><!-- #wrapper-one -->
+</div><!-- #wrapper-two -->
+</div><!-- #wrapper-three -->
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">Accept</a> <a href="https://www.orfeo-toolbox.org" id="CONSTANT_OPEN_URL" target="_blank" class="cli-plugin-main-link">Read More</a></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><style type="text/css" media="screen">#simple-social-icons-6 ul li a, #simple-social-icons-6 ul li a:hover, #simple-social-icons-6 ul li a:focus { background-color: #999999 !important; border-radius: 3px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  #simple-social-icons-6 ul li a:hover, #simple-social-icons-6 ul li a:focus { background-color: #666666 !important; border-color: #ffffff !important; color: #ffffff !important; }  #simple-social-icons-6 ul li a:focus { outline: 1px dotted #666666 !important; }</style><script type='text/javascript' id='alexandria-general-js-extra'>
+/* <![CDATA[ */
+var alexandria_tinynav_header = {"header":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/js/general.js?ver=6.0.2' id='alexandria-general-js'></script>
+<script type='text/javascript' src='https://www.orfeo-toolbox.org/wp-content/themes/alexandria/js/skip-link-focus-fix.js?ver=20130115' id='alexandria-skip-link-focus-fix-js'></script>
+
+</body>
+</html>

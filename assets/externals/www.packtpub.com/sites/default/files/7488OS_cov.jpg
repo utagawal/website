@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search | Packt Subscription</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href='https://fonts.googleapis.com/css?family=Montserrat&display=swap'>
+<link href='https://fonts.googleapis.com/css?family=Nunito&display=swap'>
+<link href='https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap'>
+<link rel='preconnect' href='https://fonts.cdnfonts.com'>
+
+<meta name="csrf-token" content="CTefb78ES2Qg5tRxWkhKD9EJgsjvjUIQiNPLu6E1">
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://subscription.packtpub.com/search" />
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"user":{"loginState":"Logged Out","userId":"","firstName":"","existingCustomer":"","signupSource":""}});
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJMM825');</script>
+
+<meta name="description" content="Search over 7,500 Programming &amp; Development eBooks and videos to advance your IT skills, including Web Development, Application Development and Networking" />
+
+<meta property="og:title" content="Search | Packt Subscription">
+<meta property="og:description" content="Search over 7,500 Programming &amp; Development eBooks and videos to advance your IT skills, including Web Development, Application Development and Networking">
+<meta property="og:url" content="https://subscription.packtpub.com/search">
+<meta property="og:image" content="https://static.packt-cdn.com/assets/images/packt-plus-meta-img.png">
+<meta property="og:image:secure_url" content="https://static.packt-cdn.com/assets/images/packt-plus-meta-img.png">
+<meta property="og:site_name" content="Packt">
+
+<meta name="twitter:title" content="Search | Packt Subscription">
+<meta name="twitter:description" content="Search over 7,500 Programming &amp; Development eBooks and videos to advance your IT skills, including Web Development, Application Development and Networking">
+<meta name="twitter:image" content="https://static.packt-cdn.com/assets/images/packt-plus-meta-img.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@PacktPub">
+<meta name="twitter:creator" content="@PacktPub">
+<link rel="image_src" href="https://static.packt-cdn.com/assets/images/packt-plus-meta-img.png" />
+
+<meta name="google-site-verification" content="CGEyu7dKgqkqBrxdainq9bY0WowOCMOdZ1nKVzzvYJg">
+<link rel="shortcut icon" href="https://d2aov160eccqlv.cloudfront.net/271739eb287c43adb004792095a0b2fc/images/7e26cb80ef4e68f870f1e40b5ef46584.ico" />
+<link rel="stylesheet" href="/css/bootstrap.css?id=1d806112c5250dbe85a7b8a64f8d648c">
+<link rel="stylesheet" href="/css/app.css?id=dfb8a89b3986e81f6b805a52c8bed689">
+<script type="text/javascript">(function(w,d,s,r,k,h,m){if(w.performance && w.performance.timing && w.performance.navigation) {w[r] = w[r] || function(){(w[r].q = w[r].q || []).push(arguments)};h=d.createElement('script');h.async=true;h.setAttribute('src',s+k);d.getElementsByTagName('head')[0].appendChild(h);(m = window.onerror),(window.onerror = function (b, c, d, f, g) {m && m(b, c, d, f, g),g || (g = new Error(b)),(w[r].q = w[r].q || []).push(["captureException",g]);})}})(window,document,'//static.site24x7rum.in/beacon/site24x7rum-min.js?appKey=','s247r','ce4ec8e657ccc61ab056133fab265b09');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJMM825"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="root"></div>
+<script src="/js/react.js?id=bc3cdf01ca766440ae22d6a746ecdc54"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"746f4b9b486b7bf5","token":"ddafdcc8d2d544fe9874fe3f5dda8e4d","version":"2022.8.1","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
